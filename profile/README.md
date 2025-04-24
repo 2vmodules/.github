@@ -1,18 +1,16 @@
 ## About 2V Modules
 
-**2V Modules** is a product development agency that partners with founders, startups, and scale-ups to build modern, scalable digital products.
+[2V Modules](https://2vmodules.com/) is a product development agency that works with founders, startups, and scale-ups to build modern and scalable products.
 
-We focus on delivering solutions that combine thoughtful, modern design with robust development and architecture. We value your time and budget — our team operates lean and moves fast to help you bring your vision to life.
+We are building products that combine modern thoughtful design with scalable development and architecture. We respect the client’s time & budget and move as lean as possible.
 
-📬 **Let’s talk:** [weare@2vmdls.com](mailto:weare@2vmdls.com)
+📬 Free to reach out to [weare@2vmdls.com](mailto:weare@2vmdls.com) to discuss your project.
 
 ---
 
 ## Open Source
 
-We actively contribute to the open-source community with high-quality tools and libraries, including:
 
-- PHP & Laravel packages  
-- AWS Infrastructure-as-Code (IaC) boilerplates
+We also develop high-quality open-source products, including PHP and Laravel packages and AWS IaaC boilerplates.
 
-We are proud to be an **official RevenueCat certified partner** and the creators of the **primary open-source PHP SDK for RevenueCat**, helping mobile apps implement in-app purchases with ease.
+Being official RevenueCat certified partner, we have also created the primary opensource PHP RevenueCat SDK that you can use in your mobile apps that require in-app purchase implementation.
